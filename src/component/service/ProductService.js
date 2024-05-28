@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_URL="http://localhost:8080";
+const API_URL="mellow-patience-production-90e5.up.railway.app";
 
 class ProductService {
   
